@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div class="title-container">
-      <h1 class="main-title">Apps Vue By'Rangga</h1>
+      <h1 class="main-title">Vue apps By'Rangga</h1>
     </div>
     <div class="card-wrapper">
       <div class="card" id="click-counter-card">
